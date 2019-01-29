@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Aboisier/weka-3.8.svg?branch=master)](https://travis-ci.org/Aboisier/weka-3.8)
+
 # WEKA (stable version)
 
 Read-only git mirror of Weka's subversion repository.
