@@ -4,4 +4,4 @@ before_script:
  - cd weka
 
 script:
- - mvn
+ - mvn compile
