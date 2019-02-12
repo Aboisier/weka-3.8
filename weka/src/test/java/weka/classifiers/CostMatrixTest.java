@@ -123,9 +123,6 @@ public class CostMatrixTest extends TestCase {
 
     assertEquals(0.5, weighted.instance(0).weight());
     assertEquals(1.5, weighted.instance(1).weight());
-
-    // We fail the test on purpose for the sake of the video
-    assertTrue(false);
   }
 
   /**
